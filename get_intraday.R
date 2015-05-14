@@ -80,8 +80,7 @@ GetIntradayChanges <- function(){
   #                                      "TSEC", "FTSE 100", "EURO STOXX 50", "CAC 40", "S&P TSX", "S&P/ASX 200",
   #                                      "BSE Sensex", "TA25", "SMI", "ATX", "IBOVESPA", "SET", "BIST100", "IBEX", "WIG", "MERVAL",
   #                                      "EUR/USD", "USD/JPY", "GBP/USD", "USD/CAD", "USD/HKD", "USD/CNY", "AUD/USD"),
-  #                       ticker     = c(".DJI",".INX",".IXIC",
-  "SHA:000001","INDEXNIKKEI:NI225","INDEXHANGSENG:HSI")
+  #                       ticker     = c(".DJI",".INX",".IXIC","SHA:000001","INDEXNIKKEI:NI225","INDEXHANGSENG:HSI")
 
 
   return(changes)
